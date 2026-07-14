@@ -73,7 +73,7 @@ git clone https://github.com/Shanto9131/Notes-Management-APP.git
 Go to the project directory:
 
 ```bash
-cd nadb_assignment_2
+cd Notes-Management-APP
 ```
 
 Install dependencies:
