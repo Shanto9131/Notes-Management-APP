@@ -13,8 +13,6 @@ A Flutter application that allows users to create, edit, delete, and manage note
 * Firebase Firestore CRUD operations
 * Form validation
 * Empty state UI
-* Responsive Material Design interface
-
 ---
 
 ## Technologies Used
